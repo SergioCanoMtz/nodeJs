@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso practico nodeJs",
+  "main": "index.js",
+  "dependencies": {
+    "color": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioCanoMtz/nodeJs.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "Curso",
+    "expressJS",
+    "JS"
+  ],
+  "author": "Sergio Cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioCanoMtz/nodeJs/issues"
+  },
+  "homepage": "https://github.com/SergioCanoMtz/nodeJs#readme"
+}
